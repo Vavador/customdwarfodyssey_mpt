@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: d5b57c2cc03a64958a039ed101af102a
+timeCreated: 1465122947
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite-accessoire+blank_0
+    21300002: sprite-accessoire+blank_1
+    21300004: sprite-accessoire+blank_2
+    21300006: sprite-accessoire+blank_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprite-accessoire+blank_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360.25
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 168.5, y: -21.5}
+        - {x: 168.5, y: 75.5}
+        - {x: 165.5, y: 78.5}
+        - {x: 1.5, y: 107.5}
+        - {x: -37.5, y: 114.5}
+        - {x: -60.5, y: 118.5}
+        - {x: -66.5, y: 118.5}
+        - {x: -154.5, y: 92.5}
+        - {x: -158.5, y: 89.5}
+        - {x: -158.5, y: 86.5}
+        - {x: -157.5, y: 85.5}
+        - {x: -157.5, y: -91.5}
+        - {x: -156.5, y: -107.5}
+        - {x: -154.5, y: -113.5}
+        - {x: -133.5, y: -115.5}
+        - {x: -87.5, y: -117.5}
+        - {x: -74.5, y: -117.5}
+        - {x: -69.5, y: -111.5}
+        - {x: -62.5, y: -101.5}
+        - {x: -43.5, y: -103.5}
+        - {x: -4.5, y: -105.5}
+        - {x: 47.5, y: -110.5}
+        - {x: 83.5, y: -111.5}
+        - {x: 92.5, y: -122.5}
+        - {x: 116.5, y: -122.5}
+        - {x: 166.5, y: -116.5}
+        - {x: 167.5, y: -114.5}
+        - {x: 167.5, y: -22.5}
+    - name: sprite-accessoire+blank_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 360
+        height: 275
+      alignment: 9
+      pivot: {x: 0.38859, y: 0.57522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.892395, y: 110.8145}
+        - {x: -44.892395, y: 110.8145}
+        - {x: -88.892395, y: 99.8145}
+        - {x: -88.892395, y: 11.814499}
+        - {x: -70.892395, y: -2.185501}
+        - {x: -20.892395, y: -2.185501}
+        - {x: -0.892395, y: 1.8144989}
+        - {x: 40.107605, y: 8.814499}
+        - {x: 56.107605, y: 38.8145}
+        - {x: 56.107605, y: 77.8145}
+    - name: sprite-accessoire+blank_2
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 360
+        height: 275
+      alignment: 9
+      pivot: {x: 0.35802, y: 0.50442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.887207, y: 113.2845}
+        - {x: -54.887207, y: 113.2845}
+        - {x: -75.88721, y: 92.2845}
+        - {x: -118.88721, y: 61.2845}
+        - {x: -118.88721, y: 28.2845}
+        - {x: -91.88721, y: 4.2845}
+        - {x: -66.88721, y: 4.2845}
+        - {x: -10.887207, y: 64.2845}
+        - {x: -10.887207, y: 73.2845}
+        - {x: -34.887207, y: 111.2845}
+    - name: sprite-accessoire+blank_3
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 47
+        width: 213
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

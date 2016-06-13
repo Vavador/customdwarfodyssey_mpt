@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 8e35aa068bd0a6d4393d99f3b27aa69a
+timeCreated: 1465058234
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite-nain_0
+    21300002: sprite-nain_1
+    21300004: sprite-nain_2
+    21300006: sprite-nain_3
+    21300008: sprite-nain_4
+    21300010: sprite-nain_5
+    21300012: sprite-nain_6
+    21300014: sprite-nain_7
+    21300016: sprite-nain_8
+    21300018: sprite-nain_9
+    21300020: sprite-nain_10
+    21300022: sprite-nain_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprite-nain_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1352
+        width: 295
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: -174}
+        - {x: 74.5, y: -163}
+        - {x: 114.5, y: -128}
+        - {x: 132.5, y: -105}
+        - {x: 147.5, y: -86}
+        - {x: 147.5, y: -47}
+        - {x: 130.5, y: -4}
+        - {x: 127.5, y: 4}
+        - {x: 50.5, y: 152}
+        - {x: 24.5, y: 173}
+        - {x: 8.5, y: 176}
+        - {x: -68.5, y: 176}
+        - {x: -107.5, y: 144}
+        - {x: -119.5, y: 93}
+        - {x: -112.5, y: 62}
+        - {x: -96.5, y: 17}
+        - {x: -147.5, y: 2}
+        - {x: -147.5, y: -44}
+        - {x: -135.5, y: -82}
+        - {x: -86.5, y: -111}
+        - {x: -100.5, y: -152}
+        - {x: -83.5, y: -167}
+        - {x: -53.5, y: -176}
+        - {x: -22.5, y: -176}
+        - {x: -17.5, y: -169}
+        - {x: -13.5, y: -158}
+        - {x: 21.5, y: -143}
+    - name: sprite-nain_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1348
+        width: 273
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 136.5, y: -10}
+        - {x: 136.5, y: 7}
+        - {x: 110.5, y: 55}
+        - {x: 62.5, y: 155}
+        - {x: 19.5, y: 177}
+        - {x: 10.5, y: 178}
+        - {x: -49.5, y: 178}
+        - {x: -77.5, y: 161}
+        - {x: -92.5, y: 144}
+        - {x: -108.5, y: 95}
+        - {x: -101.5, y: 64}
+        - {x: -85.5, y: 19}
+        - {x: -136.5, y: -6}
+        - {x: -136.5, y: -29}
+        - {x: -114.5, y: -48}
+        - {x: -60.5, y: -55}
+        - {x: -72.5, y: -71}
+        - {x: -54.5, y: -134}
+        - {x: -38.5, y: -165}
+        - {x: -30.5, y: -178}
+        - {x: 35.5, y: -178}
+        - {x: 70.5, y: -169}
+        - {x: 108.5, y: -130}
+        - {x: 121.5, y: -23}
+    - name: sprite-nain_2
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1352
+        width: 273
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86.5, y: -164}
+        - {x: 118.5, y: -126}
+        - {x: 136.5, y: -96}
+        - {x: 136.5, y: -51}
+        - {x: 127.5, y: -24}
+        - {x: 136.5, y: -20}
+        - {x: 136.5, y: 7}
+        - {x: 120.5, y: 19}
+        - {x: 90.5, y: 105}
+        - {x: 60.5, y: 151}
+        - {x: 35.5, y: 173}
+        - {x: 19.5, y: 176}
+        - {x: -57.5, y: 176}
+        - {x: -96.5, y: 144}
+        - {x: -108.5, y: 93}
+        - {x: -101.5, y: 62}
+        - {x: -85.5, y: 17}
+        - {x: -136.5, y: -8}
+        - {x: -136.5, y: -31}
+        - {x: -107.5, y: -86}
+        - {x: -63.5, y: -108}
+        - {x: -85.5, y: -117}
+        - {x: -78.5, y: -175}
+        - {x: -75.5, y: -176}
+        - {x: -10.5, y: -176}
+        - {x: -0.5, y: -159}
+        - {x: 32.5, y: -143}
+        - {x: 63.5, y: -174}
+    - name: sprite-nain_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 949
+        width: 273
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108.5, y: -85}
+        - {x: 136.5, y: -31}
+        - {x: 136.5, y: -8}
+        - {x: 85.5, y: 51}
+        - {x: 105.5, y: 71}
+        - {x: 104.5, y: 94}
+        - {x: 99.5, y: 117}
+        - {x: 86.5, y: 152}
+        - {x: 46.5, y: 176}
+        - {x: -24.5, y: 176}
+        - {x: -66.5, y: 151}
+        - {x: -110.5, y: 51}
+        - {x: -136.5, y: 2}
+        - {x: -136.5, y: -90}
+        - {x: -132.5, y: -102}
+        - {x: -89.5, y: -165}
+        - {x: -60.5, y: -166}
+        - {x: -53.5, y: -160}
+        - {x: -8.5, y: -176}
+        - {x: 46.5, y: -176}
+        - {x: 62.5, y: -171}
+        - {x: 89.5, y: -148}
+        - {x: 71.5, y: -103}
+    - name: sprite-nain_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 945
+        width: 273
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 136.5, y: -37}
+        - {x: 136.5, y: -7}
+        - {x: 92.5, y: 7}
+        - {x: 85.5, y: 53}
+        - {x: 105.5, y: 73}
+        - {x: 104.5, y: 96}
+        - {x: 99.5, y: 119}
+        - {x: 86.5, y: 154}
+        - {x: 46.5, y: 178}
+        - {x: -24.5, y: 178}
+        - {x: -66.5, y: 153}
+        - {x: -110.5, y: 53}
+        - {x: -106.5, y: 11}
+        - {x: -136.5, y: 3}
+        - {x: -136.5, y: -28}
+        - {x: -117.5, y: -63}
+        - {x: -97.5, y: -142}
+        - {x: -64.5, y: -174}
+        - {x: -54.5, y: -178}
+        - {x: 30.5, y: -178}
+        - {x: 46.5, y: -174}
+        - {x: 67.5, y: -98}
+        - {x: 63.5, y: -49}
+        - {x: 82.5, y: -58}
+    - name: sprite-nain_5
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 949
+        width: 295
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 118.5, y: -80}
+        - {x: 147.5, y: -40}
+        - {x: 147.5, y: -9}
+        - {x: 111.5, y: 14}
+        - {x: 124.5, y: 95}
+        - {x: 99.5, y: 153}
+        - {x: 64.5, y: 176}
+        - {x: -23.5, y: 176}
+        - {x: -39.5, y: 173}
+        - {x: -89.5, y: 99}
+        - {x: -106.5, y: 8}
+        - {x: -131.5, y: 1}
+        - {x: -125.5, y: -11}
+        - {x: -115.5, y: -17}
+        - {x: -147.5, y: -49}
+        - {x: -147.5, y: -84}
+        - {x: -129.5, y: -99}
+        - {x: -111.5, y: -92}
+        - {x: -119.5, y: -134}
+        - {x: -54.5, y: -176}
+        - {x: -38.5, y: -176}
+        - {x: -9.5, y: -138}
+        - {x: 23.5, y: -176}
+        - {x: 57.5, y: -176}
+        - {x: 88.5, y: -158}
+        - {x: 99.5, y: -147}
+        - {x: 78.5, y: -107}
+    - name: sprite-nain_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 567
+        width: 212
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104, y: 49}
+        - {x: 106, y: 56}
+        - {x: 106, y: 96}
+        - {x: 55, y: 154}
+        - {x: 35, y: 157}
+        - {x: -32, y: 157}
+        - {x: -52, y: 144}
+        - {x: -72, y: 118}
+        - {x: -73, y: 108}
+        - {x: -92, y: 101}
+        - {x: -106, y: 94}
+        - {x: -106, y: 55}
+        - {x: -101, y: 39}
+        - {x: -74, y: 23}
+        - {x: -91, y: -10}
+        - {x: -100, y: -60}
+        - {x: -97, y: -103}
+        - {x: -59, y: -157}
+        - {x: 47, y: -157}
+        - {x: 106, y: -97}
+        - {x: 106, y: -60}
+        - {x: 86, y: -8}
+    - name: sprite-nain_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 566
+        width: 251
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 125.5, y: -35.5}
+        - {x: 70.5, y: 16.5}
+        - {x: 98.5, y: 45.5}
+        - {x: 125.5, y: 55.5}
+        - {x: 92.5, y: 144.5}
+        - {x: 50.5, y: 157.5}
+        - {x: -30.5, y: 157.5}
+        - {x: -119.5, y: 95.5}
+        - {x: -101.5, y: 34.5}
+        - {x: -67.5, y: 24.5}
+        - {x: -124.5, y: -49.5}
+        - {x: -125.5, y: -52.5}
+        - {x: -125.5, y: -89.5}
+        - {x: -107.5, y: -104.5}
+        - {x: -82.5, y: -144.5}
+        - {x: -71.5, y: -157.5}
+        - {x: 73.5, y: -157.5}
+        - {x: 78.5, y: -150.5}
+        - {x: 84.5, y: -122.5}
+        - {x: 125.5, y: -101.5}
+    - name: sprite-nain_8
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 564
+        width: 212
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 24.5}
+        - {x: 105, y: 49.5}
+        - {x: 106, y: 54.5}
+        - {x: 106, y: 93.5}
+        - {x: 63, y: 138.5}
+        - {x: 31, y: 158.5}
+        - {x: -31, y: 158.5}
+        - {x: -54, y: 149.5}
+        - {x: -106, y: 98.5}
+        - {x: -106, y: 50.5}
+        - {x: -79, y: 37.5}
+        - {x: -92, y: -17.5}
+        - {x: -101, y: -73.5}
+        - {x: -101, y: -101.5}
+        - {x: -48, y: -144.5}
+        - {x: -25, y: -158.5}
+        - {x: 70, y: -158.5}
+        - {x: 71, y: -124.5}
+        - {x: 106, y: -90.5}
+        - {x: 106, y: -74.5}
+    - name: sprite-nain_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 137
+        width: 212
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: -18}
+        - {x: 98, y: -13}
+        - {x: 70, y: 22}
+        - {x: 106, y: 50}
+        - {x: 106, y: 102}
+        - {x: 38, y: 158}
+        - {x: -39, y: 158}
+        - {x: -62, y: 143}
+        - {x: -106, y: 100}
+        - {x: -106, y: 48}
+        - {x: -82, y: 27}
+        - {x: -104, y: -23}
+        - {x: -106, y: -73}
+        - {x: -88, y: -114}
+        - {x: -69, y: -144}
+        - {x: -59, y: -158}
+        - {x: 47, y: -158}
+        - {x: 65, y: -136}
+        - {x: 106, y: -101}
+        - {x: 106, y: -47}
+    - name: sprite-nain_10
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 136
+        width: 251
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 124.5, y: -90.5}
+        - {x: 125.5, y: -87.5}
+        - {x: 125.5, y: -47.5}
+        - {x: 104.5, y: -11.5}
+        - {x: 99.5, y: 42.5}
+        - {x: 115.5, y: 66.5}
+        - {x: 109.5, y: 98.5}
+        - {x: 42.5, y: 158.5}
+        - {x: -37.5, y: 158.5}
+        - {x: -66.5, y: 137.5}
+        - {x: -111.5, y: 91.5}
+        - {x: -102.5, y: 46.5}
+        - {x: -83.5, y: 20.5}
+        - {x: -125.5, y: -24.5}
+        - {x: -125.5, y: -100.5}
+        - {x: -74.5, y: -113.5}
+        - {x: -82.5, y: -145.5}
+        - {x: -71.5, y: -158.5}
+        - {x: 73.5, y: -158.5}
+        - {x: 78.5, y: -151.5}
+        - {x: 84.5, y: -123.5}
+        - {x: 110.5, y: -105.5}
+    - name: sprite-nain_11
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 134
+        width: 212
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: -16.5}
+        - {x: 101, y: -11.5}
+        - {x: 106, y: 4.5}
+        - {x: 106, y: 100.5}
+        - {x: 87, y: 140.5}
+        - {x: 49, y: 159.5}
+        - {x: -37, y: 159.5}
+        - {x: -63, y: 136.5}
+        - {x: -67, y: 127.5}
+        - {x: -106, y: 96.5}
+        - {x: -106, y: 54.5}
+        - {x: -100, y: 38.5}
+        - {x: -74, y: 13.5}
+        - {x: -97, y: -12.5}
+        - {x: -101, y: -102.5}
+        - {x: -50, y: -150.5}
+        - {x: -30, y: -159.5}
+        - {x: 70, y: -159.5}
+        - {x: 70, y: -125.5}
+        - {x: 106, y: -92.5}
+        - {x: 106, y: -56.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
